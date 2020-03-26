@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyJavaApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Click Me</string>
+    <string name="previous">Go Back</string>
+
+    <string name="hello_first_fragment">Hey there!\n This is my Start Ng App.</string>
+    <string name="details_heading">My Start.NG Program Info:</string>
+    <string name="Full_Name">Idikwu Ahigwu Patricia</string>
+    <string name="Slack_User">Trisha</string>
+    <string name="Tracks">Mobile </string>
+    <string name="startNg_email">idikwu2patricia@gmail.com</string>
+</resources>
